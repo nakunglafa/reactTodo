@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAI,cACI,4BAA8B","file":"static/css/main.80896ece.css","sourcesContent":["    .taskComplete{\r\n        text-decoration: line-through;\r\n    }\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
